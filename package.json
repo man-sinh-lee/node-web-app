@@ -1,0 +1,9 @@
+{
+  "name": "node-web-app",
+  "version": "1.0.0",
+  "description": "node-web-app",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
