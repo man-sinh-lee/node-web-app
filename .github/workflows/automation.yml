@@ -4,7 +4,7 @@ jobs:
   node-npm-test:
     name: build with node
     runs-on: ubuntu-latest
-    container: node:12.18.4
+    container: node:18.13.0
     steps:
     - name: checkout code
       uses: actions/checkout@v3
